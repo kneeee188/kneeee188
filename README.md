@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://medium-readme-stats.vercel.app/api/post?name=make.abundant
+[![Medium GitHub stats](https://medium-readme-stats.vercel.app/api/post?name=make.abundant)](https://medium.com/@make.abundant)
